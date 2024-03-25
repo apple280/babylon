@@ -206,10 +206,7 @@ function uninstall_script() {
 # 主菜单
 function main_menu() {
     clear
-    echo "脚本以及教程由推特用户大赌哥 @y95277777 编写，免费开源，请勿相信收费"
-    echo "================================================================"
-    echo "节点社区 Telegram 群组:https://t.me/niuwuriji"
-    echo "节点社区 Telegram 频道:https://t.me/niuwuriji"
+    echo "Apple280大哥编写脚本..v: apple280...."
     echo "请选择要执行的操作:"
     echo "1. 安装节点"
     echo "2. 创建钱包"
